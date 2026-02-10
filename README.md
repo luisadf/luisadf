@@ -9,7 +9,7 @@ Tenho interesse principalmente nas áreas de **Análise de Dados** e **Desenvolv
 Aqui no GitHub compartilho meus projetos, estudos e evolução na área de tecnologia.
 
 <p align="left">
-    <a href="https://github.com/seuusuario?tab=repositories">
+    <a href="https://github.com/luisadf">
         <img 
             alt="Repositórios" 
             title="Meus projetos no GitHub" 
@@ -126,21 +126,3 @@ Aqui no GitHub compartilho meus projetos, estudos e evolução na área de tecno
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Tecnologias" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-  />
-</p>
